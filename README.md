@@ -19,5 +19,7 @@ Para que lo botones funcionen Instala esto y si no aparece el programa instala d
 - **Zenmap**
 - **Hydra / Netcat**
 - **Tor**
-PyQt5>=5.15.0
-psutil>=5.9.0
+
+Instalar:   python -m pip install PyQt6 psutil pyte
+Opcional:   python -m pip install pywinpty     (si falla, no pasa nada)
+Ejecutar:   python fsociety_gui.py
